@@ -1,3 +1,3 @@
-Hotel booking and cancellation dashboard
-excel csv file tranform in power querry then create pivot table
+Hotel booking and cancellation dashboard,
+excel csv file transform in power querry then create pivot table then
 last create a dashboard
